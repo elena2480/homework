@@ -1,0 +1,15 @@
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\bin\Debug\net6.0\4.exe
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\bin\Debug\net6.0\4.deps.json
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\bin\Debug\net6.0\4.runtimeconfig.json
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\bin\Debug\net6.0\4.dll
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\bin\Debug\net6.0\4.pdb
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\obj\Debug\net6.0\4.dll
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\obj\Debug\net6.0\refint\4.dll
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\obj\Debug\net6.0\4.pdb
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+D:\АЛЁНА\GeekBrains\C#homework\homework\homework1\4\obj\Debug\net6.0\ref\4.dll
