@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Напишите программу, которая принимает на вход трёхзначное число, 
+// и на выходе показывает **последнюю** цифру этого числа
+
 
 Console.Clear();
 Console.Write("Введите трёхзначное число: ");
