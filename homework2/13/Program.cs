@@ -17,7 +17,7 @@ if (a<100) {
     return;
 }
 int i = a;
-while (i > 1000) {
+while (i > 999) {
     i = i/10;
 }
  Console.WriteLine($"Третья слева цифра числа {num} -> {i%10}");
